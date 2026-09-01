@@ -1,0 +1,60 @@
+# Privacy Policy for Party Pack
+
+**Last updated: August 31,2026**
+
+This Privacy Policy describes how Party Pack ("the App," "we," "us") handles information when you use the app. We built Party Pack to be a simple, offline-friendly party game — and that shows in how little data it touches.
+
+## The short version
+
+Party Pack does not collect, store, or transmit any personal information to us or to any third party. The app runs entirely on your device. There is no account to create, no server we send your data to, and no analytics or advertising tracking of any kind.
+
+## Information We Do Not Collect
+
+We want to be specific, not just reassuring. Party Pack does **not**:
+
+- Require or support account creation, sign-in, or sign-up
+- Collect your name, email address, phone number, or any contact information
+- Access your camera, photo library, or microphone
+- Track your location
+- Use advertising identifiers, analytics SDKs, or third-party tracking pixels
+- Share, sell, or transmit any information to third parties, because it doesn't transmit anything anywhere
+- Use cookies for tracking purposes
+
+## Information Stored Locally on Your Device
+
+Some information is saved locally on your device, purely to make the app work smoothly. This information never leaves your device and is not accessible to us:
+
+- **Language preference** — the app remembers which of its five supported languages (English, Simplified Chinese, Traditional Chinese, Japanese, Korean) you last selected, so you don't have to reselect it each time.
+- **In-game session data** — things you type during a game, like team names, player counts, or game settings, are held only in the app's temporary memory for that session. This data is not saved permanently and disappears when you close the app or start a new game.
+
+## Device Permissions
+
+Party Pack may request the following device permissions, used only for direct gameplay features and never transmitted anywhere:
+
+- **Motion & orientation sensors** — used in the Charades game so you can tilt your phone to mark an answer correct or pass, instead of tapping a button. This sensor data is read in real time to detect tilt gestures and is not recorded, stored, or sent anywhere.
+- **Vibration** — used for haptic feedback (for example, a buzz when a timer is running low). This is a one-way output; no data is read or collected.
+
+The app also uses your device's built-in text-to-speech and audio playback capabilities (for example, to narrate the Werewolves night phase or play sound effects). These run entirely on-device using your browser or operating system's built-in speech and audio engines — no audio is recorded, and nothing is uploaded.
+
+## Children's Privacy
+
+Party Pack does not knowingly collect personal information from anyone, including children under 13 (or the relevant age threshold in your country). Because the app does not collect personal information from any user, this protection applies equally regardless of age.
+
+## Third-Party Services
+
+Party Pack does not integrate any third-party analytics, advertising, or data-sharing services. If that ever changes in a future version, this policy will be updated to disclose exactly what's added and why.
+
+## Changes to This Policy
+
+If this policy changes — for example, if a future version of the app adds a feature that does collect data — we will update this page and revise the "Last updated" date above. We encourage you to review this policy periodically.
+
+## Contact Us
+
+If you have questions about this Privacy Policy, please contact us at:
+
+**Iris Ho**
+**bongis0415@gmail.com**
+
+---
+
+*This policy applies to Party Pack version 1.0 and later. If you're using an older or modified version of the app, some details above may not apply.*
